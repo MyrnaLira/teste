@@ -1,9 +1,13 @@
 /* Hello World program */
-
+// teste de nova versão
 #include<stdio.h>
+#include<stdlib.h>
 
-main()
+int main(void)
 {
+
     printf("Hello World");
 
+system ("pause");
+return 0;
 }
